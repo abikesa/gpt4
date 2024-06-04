@@ -66,7 +66,7 @@
 </head>
 <body>
     <header>
-        <h1>My Personal Blog</h1>
+        <h1>Updates</h1>
     </header>
     <div class="container">
         <section class="bio">
@@ -78,7 +78,7 @@
             <div class="blog-post">
                 <h3>Blog Post Title 1</h3>
                 <p>Published on: Date</p>
-                <p>This is a brief summary of my first blog post. Click <a href="#">here</a> to read more.</p>
+                <p>This is a brief summary of my first blog post. Click <a href="https://mac.install.guide/ai/chatgpt-download">GPT-4o for MacOS</a> to read more.</p>
             </div>
             <div class="blog-post">
                 <h3>Blog Post Title 2</h3>
