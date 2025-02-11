@@ -1,5 +1,0 @@
-1. Philosopher: 0-5 (exposure to Anglican Church in Uganda, Explo ’85 from campus crusade for christ, introduced to music of AYF - anglican youth fellowship as well as hymns ancient and modern) 
-2. Student: 6-35 (navigated primary , secondary, medical school, grad school at JHSPH, and research fellowship at JHSOM, school and emerged excellent in academics, rugby, field, swimming, and was in a boy band “heaven bound”)
-3. Faculty: 36-39 (department of surgery as instructor, assistant professo at johns hopkinsr, long overdue for tenure)
-4. Investigator: 40-44 (enrolled in graduate training in clinical investigation (GTPCI) PhD after getting K08 from NIA/NIH in 2020)
-5. Tenure : 45+ (Must happen by end of 2024; but secure R03, R21, R34, as many grants as possible in less than 12 months)
